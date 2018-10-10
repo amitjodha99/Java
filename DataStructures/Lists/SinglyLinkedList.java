@@ -2,10 +2,10 @@
  * This class implements a SinglyLinked List. This is done
  * using SinglyLinkedList class and a LinkForLinkedList Class.
  * 
- * A linked list is similar to an array, it hold values.
- * However, links in a linked list do not have indexes. With
- * a linked list you do not need to predetermine it's size as
- * it grows and shrinks as it is edited. This is an example of
+ * A linked list is similar to an array,as it hold values.
+ * However, linked list do not have indexes. Instead the
+ * size of list can vary as it is edited. 
+ * This is an example of
  * a singly linked list. Elements can only be added/removed
  * at the head/front of the list.
  * 
